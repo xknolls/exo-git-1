@@ -10,3 +10,7 @@ header {
 header img {
     height: 50px;
 }
+
+footer {
+    background-color: blue;
+}
